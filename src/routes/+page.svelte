@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<h1>
+	<!--h1>
 		<span class="welcome">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
@@ -23,11 +23,11 @@
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
+	</h2-->
 
 	<img src="https://i.seadn.io/gcs/files/dfcc33b066b9f3862a600eb832dab7c9.jpg?auto=format&w=1000" alt="Welcome" />
 
-	<Counter />
+	<!--Counter /-->
 </section>
 
 <style>
