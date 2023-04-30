@@ -27,7 +27,7 @@
 	<h1>
 		<a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/19155244552528182956849231716991578859342481968898501192175010786946555314177" target="_blank"><u>Click here to buy this image as NFT for only 0.02 ETH!</u></a>
 	</h1>
-	<a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/19155244552528182956849231716991578859342481968898501192175010786946555314177" target="_blank"><img src="https://i.seadn.io/gcs/files/dfcc33b066b9f3862a600eb832dab7c9.jpg?auto=format&w=1000" alt="Welcome" /></a>
+	<a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/19155244552528182956849231716991578859342481968898501192175010786946555314177" target="_blank"><img style="width:50%" src="https://i.seadn.io/gcs/files/dfcc33b066b9f3862a600eb832dab7c9.jpg?auto=format&w=1000" alt="Welcome" /></a>
 	<!--Counter /-->
 </section>
 
